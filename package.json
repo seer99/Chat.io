@@ -1,0 +1,19 @@
+{
+  "name": "chat.io",
+  "version": "1.0.0",
+  "description": "chat sdk worke with firebase firestore db",
+  "main": "\\",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Chat.io"
+  },
+  "author": "sachithamh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
