@@ -21,4 +21,15 @@ node based SDK for Create Chat app , all services are based on firebase
 
    5. download the private key and rename it as ``firebase-adminsdk.json`` and move to env folderin chat.io
 
+   6. select ``Database`` option on firebase portel 
+
+   7. click on ``Create databse`` button
+   
+   8. select ``Start in production mode`` option and click on ``Next`` button
+
+   9. select region as you wish or keep it defult and click on ``Done`` button
+   
+   10. in root folder run ``npm install`` on terminal
+
+
 
