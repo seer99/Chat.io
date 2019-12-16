@@ -15,7 +15,7 @@ node based SDK for Create Chat app , all services are based on firebase
    
 ![](https://github.com/seer99/Chat.io/blob/master/assets/service%20accounts.png)
       
-   4. Click on `` Generate new private key` Button
+   4. Click on `` Generate new private key`` Button
    
 ![](https://github.com/seer99/Chat.io/blob/master/assets/%20Generate%20new%20private%20key%20.png)
 
