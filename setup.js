@@ -22,13 +22,14 @@ createUser("userid_2",{"name":"USER_2"})
 
 //user collection create
 function createUser(userId,data) {
+
     firestore.collection('users').doc(userId).set(data).then(ref => {
         console.log(ref)
         console.log("create user id -> " + userId); 
     }).catch(error => {
         console.log(error);
     })
-        
+       
 }
 
 //chat group collection create
